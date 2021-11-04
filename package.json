@@ -1,12 +1,12 @@
 {
-  "name": "material-ui-dropzone-mui",
-  "version": "3.5.0",
+  "name": "@relouders1188/material-ui-dropzone-mui",
+  "version": "1.0.1",
   "description": "A Material-UI file-upload dropzone",
   "license": "MIT",
   "author": "Yuval",
   "repository": {
     "type": "git",
-    "url": "https://github.com/relouders1188/material-ui-dropzone-mui.git"
+    "url": "git+https://github.com/relouders1188/material-ui-dropzone-mui.git"
   },
   "keywords": [
     "react",
@@ -82,5 +82,12 @@
     "rollup-plugin-peer-deps-external": "2.2.2",
     "rollup-plugin-size-snapshot": "^0.11.0",
     "webpack": "^4.42.1"
+  },
+  "bugs": {
+    "url": "https://github.com/relouders1188/material-ui-dropzone-mui/issues"
+  },
+  "homepage": "https://github.com/relouders1188/material-ui-dropzone-mui#readme",
+  "directories": {
+    "doc": "docs"
   }
 }
